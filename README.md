@@ -1,2 +1,2 @@
 # WebServer
-a simple web server developed with Java
+A simple web server developed with Java
